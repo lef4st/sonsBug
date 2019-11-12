@@ -1,0 +1,1 @@
+O git não está aceitando a pasta vazia.
